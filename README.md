@@ -1,1 +1,1 @@
-# nft-preveiw-FrontendMentor
+# nft-preview-FrontendMentor
