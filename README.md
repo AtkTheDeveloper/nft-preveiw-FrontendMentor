@@ -9,6 +9,7 @@ This is a beginner level project from [FrontendMentor](https://www.frontendmento
 * CSS -  For Styling
 
 ## Live Link
+https://atkthedeveloper.github.io/nft-preview-FrontendMentor/
 
 ## Challenge Link
 https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U
